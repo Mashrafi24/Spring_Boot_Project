@@ -203,12 +203,14 @@ Make sure you have the following installed:
 6.  Find `AllInOneCalculatorApplication.java`.
 
 7.  Click the green **Run** icon beside the main application class.
-8.  Dashboard:
+8. Dashboard:
+
+
          <img width="749" height="425" alt="image" src="https://github.com/user-attachments/assets/0645122a-74da-4846-aec7-b3c9e1ef6a72" />
          <img width="790" height="394" alt="image" src="https://github.com/user-attachments/assets/14bd8ff1-c7fc-48c5-9f1b-fa6980a39266" />
 
 
-9.  Open your browser and visit:
+10.  Open your browser and visit:
 
     **http://localhost:8080**
 
