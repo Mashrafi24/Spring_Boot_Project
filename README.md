@@ -206,7 +206,7 @@ Make sure you have the following installed:
 8. Dashboard:
 
 
-         <img width="749" height="425" alt="image" src="https://github.com/user-attachments/assets/0645122a-74da-4846-aec7-b3c9e1ef6a72" />
+   <img width="749" height="425" alt="image" src="https://github.com/user-attachments/assets/0645122a-74da-4846-aec7-b3c9e1ef6a72" />
          <img width="790" height="394" alt="image" src="https://github.com/user-attachments/assets/14bd8ff1-c7fc-48c5-9f1b-fa6980a39266" />
 
 
